@@ -1,0 +1,13 @@
+{
+    "name": "gralhadev/web-scrapper",
+    "license": "FREE",
+    "require": {
+        "league/climate": "^3.5",
+        "guzzlehttp/guzzle": "^6.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "GralhaDev\\WebScraper\\": "src\\"
+        }
+    }
+}
